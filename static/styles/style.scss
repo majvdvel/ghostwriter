@@ -2,9 +2,9 @@
 // ============================================================ //
 // ============================================================ //
 
-$primary: #F03838;
+$primary: #007EAF;
 $secondary: #303030;
-$background: #FEFEFE;
+$background: #FFFFFF;
 
 /* ============================================================ */
 /* Base */
@@ -137,13 +137,13 @@ table {
 }
 
 ::selection {
-    background: #FFF5B8;
+    background: #464B69;
     color: #000;
     display: block;
 }
 
 ::-moz-selection {
-    background: #FFF5B8;
+    background: #464B69;
     color: #000;
     display: block;
 }
@@ -426,7 +426,7 @@ table {
         padding: 20px 5px;
 
         &:hover {
-            background: #FCF5F5;
+            background: #5F9EB7;
             color: $primary;
             padding: 20px 12px;
 
