@@ -138,13 +138,13 @@ table {
 
 ::selection {
     background: #464B69;
-    color: #000;
+    color: #FFF;
     display: block;
 }
 
 ::-moz-selection {
     background: #464B69;
-    color: #000;
+    color: #FFF;
     display: block;
 }
 
@@ -426,7 +426,7 @@ table {
         padding: 20px 5px;
 
         &:hover {
-            background: #5F9EB7;
+            background: #F7FEFF;
             color: $primary;
             padding: 20px 12px;
 
