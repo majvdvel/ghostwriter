@@ -99,7 +99,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .clearfix:after { content: ""; display: table; clear: both; }
 .container { margin: 0 auto; position: relative; width: 100%; max-width: 889px; }
 .container_logo { margin: 0 auto; position: relative; width: 25%; max_width: 200px; }
-#banner { width: 100%; background: #000 url("../img/banner.png"); background-size: cover; background-position: center;}
+#banner { width: 100%; background: #000 url("../img/banner.png"); background-size: cover; background-position-x: center;}
 .gradient { background: -webkit-linear-gradient(-45deg, rgba(0, 180, 185, 0.1), rgba(70, 75, 105, 0.1)); background: #000 -moz-linear-gradient(-45deg, rgba(0, 180, 185, 0.1), rgba(70, 75, 105, 0.1)); background: #000 -o-linear-gradient(-45deg, rgba(0, 180, 185, 0.1), rgba(70, 75, 105, 0.1)); background: #000 linear-gradient(-45deg, rgba(0, 180, 185, 0.1), rgba(70, 75, 105, 0.1)); content: ""; display: block; left: 0; position: absolute; top: 0; width: 100%; -moz-background-size: cover; -webkit-background-size: cover; -o-background-size: cover; background-size: cover;}
 #wrapper { height: auto; min-height: 100%; margin-bottom: -265px; }
 #wrapper:after { content: ""; display: block; height: 265px; }
