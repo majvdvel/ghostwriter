@@ -175,6 +175,19 @@ table {
     max-width: 889px;
 }
 
+.container_logo {
+    margin: 0 auto;
+    position: relative;
+    width: 25%
+    max-width: 200px;
+}
+
+#banner {
+    width: 100%;
+    background: url("../img/banner.png");
+    background-size: cover;
+}
+
 #wrapper {
     height: auto;
         min-height: 100%;
@@ -270,8 +283,8 @@ table {
     font-size: 14px;
     font-weight: 700;
     margin: 0 10px;
-
-    a:hover { color: #464B69; }
+    a { color: #FFFFFF; }
+    a:hover { color: #007EAF; }
 }
 
 /* ============================================================ */
