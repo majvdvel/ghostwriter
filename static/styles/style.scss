@@ -326,7 +326,6 @@ table {
     a:hover { color: $primary; }
 
     &:after {
-        border-bottom: 1px dotted $secondary;
         content: "";
         display: block;
         margin: 40px auto 0;
