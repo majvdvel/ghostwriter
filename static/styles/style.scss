@@ -175,7 +175,7 @@ table {
     max-width: 889px;
 }
 
-.container_logo {
+.container-logo {
     margin: 0 auto;
     position: relative;
     width: 25%
@@ -243,6 +243,12 @@ table {
     overflow: auto;
     text-align: center;
     text-transform: uppercase;
+    
+    .button-rss {
+            clear: both;
+            display: inline-block;
+            float: none;
+        }
 }
 
 .site-title-wrapper {
@@ -620,6 +626,12 @@ table {
 
     .site-header {
         padding-top: 40px;
+        
+        .button-rss {
+            clear: both;
+            display: inline-block;
+            float: none;
+        }
     }
 
     .site-title {
@@ -728,6 +740,12 @@ table {
 @media only screen and (max-width: 400px) {
     .site-header {
         padding-top: 40px;
+        
+        .button-rss {
+            clear: both;
+            display: inline-block;
+            float: none;
+        }
     }
 
     .post-title,
